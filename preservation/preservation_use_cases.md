@@ -25,3 +25,11 @@
 
 `Done looks like:` I can export bit-level copies of objects and metadata to a dark archive
 
+##Submission 4 - Scan existing records for malware 
+`As a:` Repository manager
+
+`I want to:`Have old content in the repository scanned for malware, as virus definitions are updated
+
+`So that:` I am certain that the content in the repository doesn't contain any new malware
+
+`Done looks like:` Repository content is routinely scanned for malware after the malware scanning software is updated

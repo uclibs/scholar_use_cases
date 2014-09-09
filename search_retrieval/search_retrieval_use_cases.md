@@ -60,5 +60,13 @@
 `So that:` I can find things that are more meaningfully related to my search
 
 `Done looks like:` A keyword search more prominently ranks results where my keyword is used more prominently compared to other records
-	
+
+## Submission 8 - Linked Data
+`As a:` metadata specialist
+
+`I want:` to use URIs in some fields of my record instead of text strings
+
+`So that:` the metadata in my record is linked to authority records
+
+`Done looks like:` I can paste URIs into any field on the metadata input form and the links will display in the user view of the bib record. The help section has lists of where I can find URIs.	
 

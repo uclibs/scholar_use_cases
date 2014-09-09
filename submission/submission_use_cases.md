@@ -1,20 +1,20 @@
 ## Submission 1 - Proxy Submission
-``As a:`` repository submitter
+`As a:` repository submitter
 
-``I want:`` my graduate student proxy submitter to be able to fill out certain fields and other fields to be left blank so I can fill them in. The submission is held in a queue until I can review it
+`I want:` my graduate student proxy submitter to be able to fill out certain fields and other fields to be left blank so I can fill them in. The submission is held in a queue until I can review it
 
-``So that:`` I can ensure certain fields are managed by me
+`So that:` I can ensure certain fields are managed by me
 
-``Done looks like:`` When I log in I can see the documents waiting my input with the blank fields I need to fill out
+`Done looks like:` When I log in I can see the documents waiting my input with the blank fields I need to fill out
 
 ##Submission 2 - Defining authorship
 `As an:` archivist
 
-``I want:`` it to be clear that a work I am submitting is not necessarily created by me by being able to suppress contributor in the public image, or otherwise make it clear this is an archival submission
+`I want:` it to be clear that a work I am submitting is not necessarily created by me by being able to suppress contributor in the public image, or otherwise make it clear this is an archival submission
 
-``So that:`` it is clear who the original publisher/creator is
+`So that:` it is clear who the original publisher/creator is
 
-``Done looks like:`` Those viewing the record understand who the actual creator/office of origin is
+`Done looks like:` Those viewing the record understand who the actual creator/office of origin is
 
 ##Submission 3 - Mediated submission through customized page
 `As a:` university records manager
@@ -90,8 +90,78 @@
 
 `Done looks like:` Individuals can login and manage items within certain areas, without access to other areas, and I can grant these granular permissions
 
+##Submission 11 - Reporting orphaned records or objects
+`As a:` repository manager
 
+`I want to:` know when a creator for a record or object is no longer affiliated with the university
 
+`So that:` I am alerted when any logins are no longer associated with someone at the university.
+
+`Done looks like:` I have an up to date list of depositor-creators who no longer have a UC affiliation, so I can apply the appropriate access, preservation, and rights policies
+
+##Submission 12 - Reporting orphaned records or objects
+`As a:` repository manager
+
+`I want to:` create an automatic metadata change for objects/metadata deposited by someone who no longer has a UC affiliation
+
+`So that:` when users arrive at a object, they do not send an email to outdated UC contact information
+
+`Done looks like:` Automated metadata will make changes to records based on my list of no longer affiliated depositors
+
+##Submission 13 - version control, in terms of the metadata defining versioning (not in terms of this being a collaboration tool)
+`As a:` depositor
+
+`I want to:` be able to deposit versions of the same work under the same metadata/catalog record
+
+`So that:` it is clear which version is older/newer
+
+`Done looks like:` when viewing the metadata record, I can see multiple files but know which one is the newer version
+
+##Submission 14 - Granular levels of authorization for submissions to specific collections, based on credentials
+`As a:` collection manager
+
+`I want to:` delegate specific permissions to certain individuals to be able to submit items to some parts of my collection, but not others
+
+`So that:` those individuals can login and upload things only where I've given permission
+
+`Done looks like:` Individuals can login and submit items to certain areas and I can grant these granular permissions
+
+##Submission 15 - Ability to generate a DOI for sharing and referencing 
+`As a:` Repository user
+
+`I want to:` Create a permanent DOI to use for sharing and referencing my work
+
+`So that:` Regardless of the history of the repository, the same URL will always connect to my work
+
+`Done looks like:` The submission interface includes a mechanism for generating DOIs, which are displayed on the public interface for the item
+
+##Submission 16 - Restrict submissions 
+`As a:` Repository user
+
+`I want to:` Restrict certain submissions to on-campus or authenticated UC users
+
+`So that:` I can fufill restrictions about how content is allowed to be shared
+
+`Done looks like:` When I'm submitting or managaing an item or collection, I'm able to designate it as being available to on-campus or authenticated UC users only
+
+##Submission 17 - Use of central UC login
+`As a:` Repository user
+
+`I want to:` Log into the repository with my UC central login
+
+`So that:` I don't have to create another account, so that appropriate rights are assigned to my account without having to work with journal staff, and so I don't need to manage my 
+account details
+
+`Done looks like:` A login interface which accepts my UC credentials, fills appropriate details in my account, and which automatically assigned me appropriate privledges in the system
+
+##Submission 18 - Scan submissions for malware
+`As a:` Repository manager
+
+`I want to:` Have new content in the repository scanned for malware
+
+`So that:` I am certain that the content in new submissions is malware free
+
+`Done looks like:` As part of the submission process, uploaded files are scanned for malware and are rejected if malware exists
 
 
 

@@ -45,3 +45,13 @@
 `So that:` my exhibit may contain works from different depositors, collections, or groups, but it is clear that this is my own assemblage of works from others
 
 `Done looks like:` my exhibit can be accessed and shared with others
+
+## Submission 6 - Granular levels of authorization for administrative functions of existing records in specific collections, based on credentials
+`As a:` collection manager
+
+`I want to:` delegate permission to certain individuals to be able to manage/edit items and metadata for records already in a collection
+
+`So that:` those individuals can login and edit things only where I've given permission
+
+`Done looks like:` Individuals can login and manage items within certain areas, without access to other areas, and I can grant these granular permissions
+
