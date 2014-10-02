@@ -109,3 +109,58 @@
 `So that:` I can reuse my metadata from other subject specific discipline repositories like DRYAD without having to manually re-enter it
 
 `Done looks like:` an import button and menu that allows me to select another repository to import my record from, like DRYAD
+
+## Submission 12 - MODS:
+`As a:`  metadata specialist
+
+`I want:` to transfer records from MARC to MODS
+
+`So that:`  I can use the metadata in library catalog records for digital objects in the digital repository
+
+`Done looks like:`  an import button and menu that allows me to choose the schema I want to import my metadata in; a metadata map that I can look at that shows me how my metadata was mapped
+
+## Submission 13 - MODS: 
+`As an:`  archivist
+
+`I want:` to export preservation metadata in MODS
+
+`So that:` descriptive metadata in MODS format can be combined with Premis and included with digital objects for long-term preservation
+
+`Done looks like:` an export button and menu that allows me to export MODS to an external system
+
+## Submission 14 - Import/Export
+`As a:`  metadata specialist
+
+`I want:` to import metadata records into the repository using a specific metadata schema such as Dublin Core, EAD, MODS, or VRA Core  
+
+`So that:`  I can do my cataloging in other platforms and import it into the repository without having to crosswalk or map the metadata
+
+`Done looks like:` an import button and menu that allows me to choose the schema I want to import my metadata in; a metadata map that I can look at that shows me how my metadata was mapped
+ 
+## Submission 15 - Import/Export 
+`As a:`  metadata specialist
+
+`I want:`  to export my metadata records from the repository in a specific metadata schema such as Dublin Core, EAD, MODS, or VRA Core  
+
+`So that:`  I can use the metadata in other platforms and systems that use those schemas
+
+`Done looks like:` an export button and menu that allows me to choose the format I want to export my metadata in; a metadata map that I can look at that shows me how my metadata was mapped
+
+## Submission 16 - Import/Export
+`As an:` archivist
+
+`I want:` to import descriptive metadata relating to digital archival collections from EAD Finding Aids
+
+`So that:`  I can use descriptive information created in EAD finding aids to describe objects in the digital repository
+
+`Done looks like:` an import button and menu that allows me to import EAD and transform to MODS
+
+## Submission 17 - Linked Data
+`As a:`  metadata specialist
+
+`I want:` to use URIs in some fields of my record instead of text strings
+
+`So that:` the metadata in my record is linked to authority records
+
+`Done looks like:` I can paste URIs into any field on the metadata input form and the links will display in the user view of the bib record. The help section has lists of where I can find URIs.
+

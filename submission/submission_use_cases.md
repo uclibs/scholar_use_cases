@@ -163,7 +163,14 @@ account details
 
 `Done looks like:` As part of the submission process, uploaded files are scanned for malware and are rejected if malware exists
 
+##Submission 19 - Customizable submission/workflow processes tailored to individuals and/or collections
+`As a:` Repository manager
 
+`I want to:` Be able to create customized workflows for other users of the repository
+
+`So that:` Not all users have to do the same set of steps -- some may be handled by me
+
+`Done looks like:` I am able to choose which steps are handled by me, and which steps the user will perform in the submission process
 
 
 
