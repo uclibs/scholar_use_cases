@@ -25,6 +25,15 @@
 
 `Done look like:` I go to a URL and enter parameters to define appropriateness, and I receive a standardized machine-readable response with the information
 
+## Submission 3.a - Downloadable through OAI harvest (or other recognized standard)
+`As a:` metadata professional
+
+`I want to:` get file bitstreams alongside metadata for content available from the repository
+
+`So that:` I can copy the files for my own use or reference or replicate it elsewhere
+
+`Done look like:` When making a request for metadata (as described in #3 above), I the response also includes the bitstream or a reference to the location of the bitstream
+
 ## Submission 4 - Search based on metadata (author, title, subject, series, date, etc.) or facet
 `As a:` repository user
 
