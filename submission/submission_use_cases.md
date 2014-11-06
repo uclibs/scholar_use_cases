@@ -172,6 +172,13 @@ account details
 
 `Done looks like:` I am able to choose which steps are handled by me, and which steps the user will perform in the submission process
 
+##Submission 20 - Reporting broken html links in metadata
+`As a:` Repository manager
 
+`I want to:` be able to identify broken HTML links in metadata
+
+`So that:` I can decide whether to remove or redirect broken links
+
+`Done looks like:` I can run a tool to automatically identify broken URLs by metadata record
 
  
