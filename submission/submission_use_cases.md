@@ -181,4 +181,166 @@ account details
 
 `Done looks like:` I can run a tool to automatically identify broken URLs by metadata record
 
+##Submission 21 - Type of Work \# Early Adopter
+`As a:` repository submitter
+
+`I want:` to be able to upload a video 
+
+`So that:` my content will be viewable
+
+`Done looks like:` a format option in the input form that includes video
+
+##Submission 22 - Type of Work
+`As a:` repository submitter
+
+`I want:` a glossary to explain collection, group, etc
+
+`So that:` I will understand the terms and choose the correct option for my work
+
+`Done looks like:` a button or other indicator in the input form that tells me what collection, group, etc mean
+
+##Submission 23 - File format \# Early Adopter
+
+`As a:` repository submitter
+
+`I want:` a list of acceptable file formats for each work type
+
+`So that:` I know if my file will upload successfully
+
+`Done looks like:` a button or link next to the work type that takes me to a list of acceptable file formats
+
+##Submission 24 - File format \# Early Adopter
+`As a:` repository submitter 
+
+`I want:` a list of maximum file sizes by format
+
+`So that:` I know if my file will upload successfully
+
+`Done looks like:` a button or link next to the work type that takes me to a list of maximum file sizes
+
+
+##Submission 25 - Input Form \# Early Adopter
+
+`As a:` repository submitter
+
+`I want:` to assign a thumbnail image for my work when I upload files (especially for video)
+
+`So that:` I can choose the thumbnail image that displays to users when they search
+
+`Done looks like:` a button on the input form that allows me to choose my thumbnail image
+
+##Submission 26 - Input Form \# Early Adopter
+
+`As a:` repository submitter
+
+`I want:` to be able to reuse metadata from my previous submissions to populate my current input form
+
+`So that:` I don’t have to manually re-enter identical metadata on multiple input forms for works that are very similar
+
+`Done looks like:` a button on the input form that allows me to import metadata from my previous submissions
+
+##Submission 27 - Input Form \# Early Adopter
+`As a:` repository submitter
+
+`I want:` to batch upload multiples files and associated metadata, including connections through cloud storage (Google Drive, Dropbox, Box)
+
+`So that:` I don’t have to manually upload multiples files and re-enter similar metadata
+
+`Done looks like:` a button or indicator that lets me choose to upload multiple files at once
+
+##Submission 28 - Input Form \# Early Adopter
+`As a:` repository submitter
+
+`I want:` to copy/paste my abstract from another source into the input form and have the original formatting transfer
+
+`So that:` my abstract has consistent formatting across platforms
+
+`Done looks like:` instructions that tell me how to copy/paste and retain formatting
+
+##Submission 29 - Input Form \# Early Adopter
+`As a:` repository submitter
+
+`I want:` to copy/paste my abstract from another source into the input form and have the original formatting transfer
+
+`So that:` my abstract has consistent formatting across platforms
+
+`Done looks like:` instructions that tell me how to copy/paste and retain formatting
+
+##Submission 30 - Input Form \# Early Adopter
+`As a:` repository submitter
+
+`I want:` to change the typescript of my metadata record
+
+`So that:` I can customize the appearance of my metadata
+
+`Done looks like:` a font box in the input form that lets me choose my font
+
+##Submission 31 - Input Form \# Early Adopter
+`As a:` repository submitter
+
+`I want:` to use italics in my metadata record
+
+`So that:` I can use italics when I need to (such as for scientific names)
+
+`Done looks like:` a font box in the input form that lets me choose whether the font is regular or italic
+
+##Submission 32 - Input Form \# Early Adopter
+`As a:` repository submitter
+
+`I want:` to use diacritics or special characters in my metadata record
+
+`So that:` I can correctly input symbols, foreign language names and words in my record
+
+`Done looks like:` a font box in the input form that lets me choose special characters to input
+
+##Submission 33 - Input Form \# Early Adopter
+`As a:` repository submitter
+
+`I want:` to use an RIS (bibliographic software interchange file format) file and upload article citation information from Zotero
+
+`So that:` I don’t have to re-enter metadata and my metadata will be consistent across platforms
+
+`Done looks like:` a box or indicator in the citation field that allows me to import my citation from a third party (like Zotero)
+
+##Submission 34 - Input Form \# Early Adopter
+`As a:` repository submitter
+
+`I want:` the input form to visually flag which specific fields need to be filled out if I submit an incomplete record
+
+`So that:` I don’t have to click on each field to see if it is required
+
+`Done looks like:` indication next to required fields such as “error” or “required” in red if incomplete record is submitted 
+
+
+##Submission 35 - Input Forms checks/warnings \# Early Adopter
+
+`As a:` repository submitter
+
+`I want:` a warning that I should close out any open files before hitting submit
+
+`So that:` I upload the appropriate documents for my work
+
+`Done looks like:` a warning near the submit button that tells me to close any open files 
+
+##Submission 36 - Input Forms checks/warnings \# Early Adopter
+`As a:` repository submitter
+
+`I want:` an indicator that the system is “thinking” and the upload is still in progress
+
+`So that:` I know the status of the upload of my content
+
+`Done looks like:` visual status indicator showing that the system is still “thinking,” e.g., animated icon
+
+##Submission 37 - Input Forms checks/warnings  \# Early Adopter
+`As a:` repository submitter
+
+`I want:` the SHERPA ROMEO link to open in a new window
+
+`So that:` I won’t lose data entered in the submission form fields if I press the back button on the current window
+
+`Done looks like:` the SHERPA ROMEO link opens in a new window or I should be warned not to use the back button
+
+
+
+
  
