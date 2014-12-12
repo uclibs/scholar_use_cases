@@ -1,5 +1,6 @@
 ## Submission 1 - Intellectual property 
 \# Early Adopter
+
 `As a:`  repository user
 
 `I want:` to see a mention and/or link to the university's intellectual property policies
@@ -10,6 +11,7 @@
 
 ## Submission 2 - Copyright guidance
 \# Early Adopter
+
 `As a:`  repository user
 
 `I want:` guidance on whether my copyrighted materials can be placed in the repository
@@ -20,6 +22,7 @@
 
 ## Submission 3 - Copyright guidance
 \# Early Adopter
+
 `As a:`  repository user
 
 `I want:` to enter the journal title in which my work was originally published
@@ -30,6 +33,7 @@
 
 ## Submission 4 - Distribution license
 \# Early Adopter
+
 `As a:`  repository user
 
 `I want:` a "plain English" summary of the distribution license
@@ -40,6 +44,7 @@
 
 ## Submission 5 - Distribution license
 \# Early Adopter
+
 `As a:`  repository user
 
 `I want:` to have better subject headings in the distribution license
@@ -50,6 +55,7 @@
 
 ## Submission 6 - Alerts for language changes
 \# Early Adopter
+
 `As a:`  repository user
 
 `I want:` to be alerted when the terms of use and distribution license change
@@ -60,6 +66,7 @@
 
 ## Submission 7 - Contingency planning
 \# Early Adopter
+
 `As a:`  repository user
 
 `I want:` to understand what would happen if UC's digital repository shut down
@@ -70,6 +77,7 @@
 
 ## Submission 8 - Distribution license
 \# Early Adopter
+
 `As a:`  repository user
 
 `I want:` to be able to easily find the distribution license I saw when I submitted content
@@ -80,6 +88,7 @@
 
 ## Submission 9 - Set future embargo release date
 \# Early Adopter
+
 `As a:`  repository user
 
 `I want:` to have my embargoed content go public once my article is published
@@ -90,6 +99,7 @@
 
 ## Submission 10 - Determining Creative Commons license
 \# Early Adopter
+
 `As a:`  repository user
 
 `I want:` to fill out a survey/use a tool to determine the Creative Commons license that fits my needs
