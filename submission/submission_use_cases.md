@@ -343,27 +343,37 @@ account details
 ##Submission 38 - Logging In  \# Early Adopter
 `As a:`
 Repository user
+
 `I want to:`
 know that when I update/change my password that it should be 8 characters long before I click ‘Update Account’
+
 `So that:`
 I do not enter in a password that is less than the required length 
+
 `Done looks like:`
 A hint appears that indicates I need 8 characters for a password
 
 ##Submission 39 - Logging In  \# Early Adopter
 `As a:`
 Repository user
+
 `I want to:`
 stay on profile page after updating password 
+
 `So that:` I can make more changes to my profile
+
 `Done looks like:` I can click an ‘Update Password’ button and not leave page
 
 ##Submission 40 - Logging In  \# Early Adopter
 `As a:`
 Repository user
+
 `I want to:` 
-clcik a ‘Log Out’ button instead of navigating to my name and clicking ‘Log Out’ 
+click a ‘Log Out’ button instead of navigating to my name and clicking 
+‘Log Out’ 
+
 `So that:` It is easier to find and faster to log out
+
 `Done looks like:`  I can click on ‘Log Out’ without navigating through the menu
 
 
