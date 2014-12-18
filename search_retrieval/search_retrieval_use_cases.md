@@ -25,15 +25,6 @@
 
 `Done look like:` I go to a URL and enter parameters to define appropriateness, and I receive a standardized machine-readable response with the information
 
-## Submission 3.a - Downloadable through OAI harvest (or other recognized standard)
-`As a:` metadata professional
-
-`I want to:` get file bitstreams alongside metadata for content available from the repository
-
-`So that:` I can copy the files for my own use or reference or replicate it elsewhere
-
-`Done look like:` When making a request for metadata (as described in #3 above), I the response also includes the bitstream or a reference to the location of the bitstream
-
 ## Submission 4 - Search based on metadata (author, title, subject, series, date, etc.) or facet
 `As a:` repository user
 
@@ -77,5 +68,107 @@
 
 `So that:` the metadata in my record is linked to authority records
 
-`Done looks like:` I can paste URIs into any field on the metadata input form and the links will display in the user view of the bib record. The help section has lists of where I can find URIs.	
+`Done looks like:` I can paste URIs into any field on the metadata input form and the links will display in the user view of the bib record. The help section has lists of where I can find URIs.
+
+##Submission 9 - Search and Display \# Early Adopter
+`As a:` repository submitter
+
+`I want:` to filter my search results by subject, discipline, etc.
+
+`So that:` I can easily navigate my search results and make them more meaningful
+
+`Done looks like:` Subject faceting on side of screen (Metadata WG will need to discuss controlled vocabulary, tags, etc) 
+
+##Submission 10 - Link Sharing \# Early Adopter
+`As a:` repository user
+
+`I want to:` know what the best link is for sharing with other people
+
+`So that:` I can share a stable URL to other people
+
+`Done looks like:` the work display page clearly shows the best link for the work
+
+##Submission 11 - Result Sorting \# Early Adopter
+`As a:` repository user
+
+`I want to:` see how search results are being sorted
+
+`So that:` I can better understand the results of my search
+
+`Done looks like:` the search results include information on how results are sorted
+
+##Submission 12 - Created Field \# Early Adopter
+`As a:` repository user
+
+`I want to:` see what other works were created by the creator of a work
+
+`So that:` I can find other works created by a user
+
+`Done looks like:` the creator field on a work is links to a search for that author's works
+
+##Submission 13 - Previewing content \# Early Adopter
+`As a:` repository user
+
+`I want to:` see content before downloading it
+
+`So that:` I can evaluate or read content without downloading it
+
+`Done looks like:` and embedded viewer displays the content in the work display page
+
+##Submission 14 - Parsing search terms \# Early Adopter
+`As a:` repository user
+
+`I want to:` search terms to be parsed
+
+`So that:` punctuation and other related forms are treated as 
+white-space or stemmed as appropriate
+
+`Done looks like:` when I search for a compound term, the parsed term is searched
+
+##Submission 15 - Numerical search \# Early Adopter
+`As a:` repository user
+
+`I want to:` Numerical search terms to be searched
+
+`So that:` I can search for meaningful numerical data, such as 
+Latitude-Longitude geographic subjects
+
+`Done looks like:` when I search for a numerical terms, results with matched are ranked as more relevant
+
+##Submission 16 - Clustered search results \# Early Adopter
+`As a:` repository user
+
+`I want to:` subject results to be clustered
+
+`So that:` results with semantically related subjects are grouped
+
+`Done looks like:` when I search for subjects, results are grouped by related subjects
+
+##Submission 17 - Search subject fields \# Early Adopter
+`As a:` repository user
+
+`I want to:` the search interface to search subject fields
+
+`So that:` search will be improved
+
+`Done looks like:` when I search in the repository, results with matching terms in the subject field are included in the result set
+
+##Submission 18 - File rollback \# Early Adopter
+`As a:` repository submitter
+
+`I want to:` see information about file rollback
+
+`So that:` I can understand what it means to rollback a file
+
+`Done looks like:` help information is displayed to help me understand what a file rollback is
+
+##Submission 19 - File size \# Early Adopter
+`As a:` repository user
+
+`I want to:` see how big files are
+
+`So that:` I'll know how big a file is before I download it
+
+`Done looks like:` The file size is displayed near the download button
+	
 
