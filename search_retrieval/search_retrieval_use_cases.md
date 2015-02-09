@@ -171,4 +171,11 @@ Latitude-Longitude geographic subjects
 
 `Done looks like:` The file size is displayed near the download button
 	
+##Submission 20 - File size \# Early Adopter
+`As a:` repository user
 
+`I want:` Scholar to index file names/file titles for keyword searching
+
+`So that:` searching by the file name returns my work in the search results
+
+`Done looks like:` I can search Scholar for my file name

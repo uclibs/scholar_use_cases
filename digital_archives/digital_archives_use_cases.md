@@ -7,3 +7,11 @@
 
 `Done looks like:` I have a mediated workflow in which records creators can easily deposit records and the archivist can monitor and approve the process
 
+##Submission 2 - Support for web archiving
+`As a:` repository user
+
+`I want to:` nominate a URL for a webpage that has historical significance
+
+`So that:` a digital archivist can review the nomination to determine if it fits the criteria for further ingest into web archiving activities
+
+`Done looks like:` If my nomination is selected for further web archiving, I can return to the repository to see the archived version of the web page

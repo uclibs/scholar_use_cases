@@ -96,3 +96,12 @@
 `So that:` I can bold, underline, or italicize text important within the context of my work, and insert URLs where appropriate
 
 `Done looks like:` I have a simple menu of commands or simple WYSIWYG buttons to use to format my text for selected fields
+
+##Submission 12 - Display of file size information
+`As a:` repository submitter
+
+`I want:` the file size information to be displayed next to the files associated with my work
+
+`So that:` users are aware of how large files may be 
+
+`Done looks like:` this information is automatically generated from the file(s) I upload and displayed along with information such as Date Uploaded and Visibility

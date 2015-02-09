@@ -108,3 +108,13 @@
 
 `Done looks like:` I could check off boxes that would auto-generate a suggested Creative Commons license for my deposited work
 
+## Submission 11 - Establishing different rights for different files within a single work
+\# Early Adopter
+
+`As a:`  repository user
+
+`I want:` to assign different rights to different files associated with my work
+
+`So that:` not all of my files associated with a work have the same level of rights
+
+`Done looks like:` when I attach subsequent files to my work, I can select different rights statements for those files

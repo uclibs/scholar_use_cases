@@ -367,6 +367,23 @@ account details
 
 `Done looks like:` I can click on ‘Log Out’ without navigating through the menu
 
+##Submission 41 - Submitting multiple files  \# Early Adopter
+`As a:` Repository user
 
+`I want:` the title field to auto-populate with my file name after attaching an additional file to an existing record/work  
 
+`So that:`  I do not accidentally upload an additional file to my work without some kind of title
+
+`Done looks like:` After I select a file from my local system, the file name is automatically populated in the title field. I may edit this title for clarity.    
+
+##Submission 42 - Submitting multiple files  \# Early Adopter
+`As a:` Repository user
+
+`I want to:`  change my file name at the time of initial creation of a work 
+
+`So that:`  I do not have to go back and edit the file name later
+
+`Done looks like:`  When I browse for a work to attach from my computer, I am able to change the file name before submitting the work for the first time
  
+
+  
