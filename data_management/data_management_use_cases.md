@@ -6,6 +6,8 @@
 `So that:` the files maintain their integrity
 
 `Done looks like:` I am easily able to upload large files through a browser interface
+
+`Developer Update:` This requires external storage and would use Fedora 4.
 	
 ##Submission 2 - Ability to ingest potentially very large file sizes
 `As a:`depositor with large files
