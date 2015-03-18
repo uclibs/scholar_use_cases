@@ -177,7 +177,7 @@ Latitude-Longitude geographic subjects
 
 `Done looks like:` The file size is displayed near the download button
 	
-##Submission 20 - File size \# Early Adopter
+##Submission 20 - Index file name/title \# Early Adopter
 `As a:` repository user
 
 `I want:` Scholar to index file names/file titles for keyword searching
