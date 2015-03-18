@@ -257,6 +257,8 @@ account details
 
 `Done looks like:` instructions that tell me how to copy/paste and retain formatting
 
+<em>Not feasible (2015-03-18)</em>
+
 ##Submission 30 - Input Form \# Early Adopter
 `As a:` repository submitter
 
@@ -265,6 +267,8 @@ account details
 `So that:` I can customize the appearance of my metadata
 
 `Done looks like:` a font box in the input form that lets me choose my font
+
+<em>Decision to defer action, pending further justification (2015-03-18)</em>
 
 ##Submission 31 - Input Form \# Early Adopter
 `As a:` repository submitter
