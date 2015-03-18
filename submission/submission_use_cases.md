@@ -385,5 +385,4 @@ account details
 
 `Done looks like:`  When I browse for a work to attach from my computer, I am able to change the file name before submitting the work for the first time
  
-
-  
+ <em>Appears to be an OS issue - Windows supports this, OSX doesn't? (2015-03-18)</em>
