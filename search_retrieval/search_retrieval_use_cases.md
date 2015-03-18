@@ -157,6 +157,8 @@ Latitude-Longitude geographic subjects
 
 `Done looks like:` when I search in the repository, results with matching terms in the subject field are included in the result set
 
+<em>Done! (2015-03-18)</em>
+
 ##Submission 18 - File rollback \# Early Adopter
 `As a:` repository submitter
 
