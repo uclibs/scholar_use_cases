@@ -365,6 +365,8 @@ account details
 
 `Done looks like:` I can click on ‘Log Out’ without navigating through the menu
 
+<em>Decision not to address, per DRTF (2015-03-18)</em>
+
 ##Submission 41 - Submitting multiple files  \# Early Adopter
 `As a:` Repository user
 
