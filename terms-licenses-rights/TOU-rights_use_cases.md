@@ -88,6 +88,8 @@
 
 `Done looks like:` I could enter my journal name into a field and the system would detect when my article is published, and remove the embargo from my deposited content
 
+<em>Not presently feasbile; may revisit in 2115 (2015-03-18)</em>
+
 ## Submission 10 - Determining Creative Commons license \# Early Adopter
 
 `As a:`  repository user
