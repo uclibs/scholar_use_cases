@@ -97,6 +97,8 @@
 
 `Done looks like:` the search results include information on how results are sorted
 
+<em>Relevancy ranking is too complicated for this to be actionable (2015-03-18)</em>
+
 ##Submission 12 - Created Field \# Early Adopter
 `As a:` repository user
 
