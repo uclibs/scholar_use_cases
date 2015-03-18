@@ -257,15 +257,6 @@ account details
 
 `Done looks like:` instructions that tell me how to copy/paste and retain formatting
 
-##Submission 29 - Input Form \# Early Adopter
-`As a:` repository submitter
-
-`I want:` to copy/paste my abstract from another source into the input form and have the original formatting transfer
-
-`So that:` my abstract has consistent formatting across platforms
-
-`Done looks like:` instructions that tell me how to copy/paste and retain formatting
-
 ##Submission 30 - Input Form \# Early Adopter
 `As a:` repository submitter
 
