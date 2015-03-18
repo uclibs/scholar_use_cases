@@ -146,6 +146,8 @@ Latitude-Longitude geographic subjects
 
 `Done looks like:` when I search for subjects, results are grouped by related subjects
 
+<em>Not actionable, pending further detail (2015-03-18)</em>
+
 ##Submission 17 - Search subject fields \# Early Adopter
 `As a:` repository user
 
