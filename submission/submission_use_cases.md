@@ -288,6 +288,8 @@ account details
 
 `Done looks like:` a font box in the input form that lets me choose special characters to input
 
+<em>This is an OS input issue; WYSIWIG editor will address this for abstract/description (2015-03-18)</em>
+
 ##Submission 33 - Input Form \# Early Adopter
 `As a:` repository submitter
 
