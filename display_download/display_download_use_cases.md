@@ -105,3 +105,12 @@
 `So that:` users are aware of how large files may be 
 
 `Done looks like:` this information is automatically generated from the file(s) I upload and displayed along with information such as Date Uploaded and Visibility
+
+##Submission 13 - Zoom and pan images \# Early Adopter
+`As a:` repository user
+
+`I want to:` be able to deep zoom and pan on large, high-resolution images
+
+`So that:` I don’t have to download a large image file to be able to zoom or pan
+
+`Done look like:` Scholar@UC includes an IIIF-compliant image server in its stack, making use of the image and presentation APIs to deliver content to users

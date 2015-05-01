@@ -35,3 +35,12 @@
 `So that:` I can develop more tailored applications to ingest and manipulate objects and metadata in the repository
 
 `Done looks like:` An API which allows me to manipulate objects in the repository according to permissions appropriate to my account
+
+## Submission 5 - Indexing in Google Scholar
+`As a:` repository submitter
+
+`I want:` my content to be discoverable through Google Scholar
+
+`So that:` my work reaches more audiences
+
+`Done looks like:` the repository I use is capable of indexing content consistent with Google Scholar recommendations, so that shortly after submission it is findable in Google Scholar

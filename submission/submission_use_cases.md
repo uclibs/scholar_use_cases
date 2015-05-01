@@ -386,3 +386,13 @@ account details
 `Done looks like:`  When I browse for a work to attach from my computer, I am able to change the file name before submitting the work for the first time
  
  <em>Appears to be an OS issue - Windows supports this, OSX doesn't? (2015-03-18)</em>
+
+##Submission 43 - Private with some exceptions 
+`As a:` repository user
+
+`I want:` to make my submission private but delegate permission to view my work to certain individuals 
+
+`So that:` I can share my work with a small audience until the item is ready for greater access
+
+`Done look like:` The submission interface includes a mechanism for selecting who can view my work by my entering an email address.
+

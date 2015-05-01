@@ -55,3 +55,13 @@
 
 `Done looks like:` Individuals can login and manage items within certain areas, without access to other areas, and I can grant these granular permissions
 
+## Submission 7 - Read-only access for group members
+
+`As a:` group manager 
+
+`I want:` to be able to set permissions for group members
+
+`So that:` I can choose between read-only and editing access for group members
+
+`Done looks like:` when group members login, they can only edit or read materials based on the levels I have specified
+
