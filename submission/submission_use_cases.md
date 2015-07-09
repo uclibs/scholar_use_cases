@@ -394,5 +394,24 @@ account details
 
 `So that:` I can share my work with a small audience until the item is ready for greater access
 
-`Done look like:` The submission interface includes a mechanism for selecting who can view my work by my entering an email address.
+`Done looks like:` The submission interface includes a mechanism for selecting who can view my work by my entering an email address.
 
+##Submission 45 - File-upload more visible \# Early Adopter Round 2
+`As a:` Repository user
+
+`I want:` To clearly identify the file-upload dialog 
+
+`So that:` I don't accidentally submit a work without attaching a file
+
+`Done looks like:` The file upload interface is more visible
+
+##Submission 45 - File hierarchy \# Early Adopter Round 2
+`As a:` Repository user
+
+`I want:` To batch upload and preserve parent-child folder structure without submitting a zip file
+
+`So that:` I can preserve relationships between files within the work 
+
+`Done looks like:` an interface to upload folders structures 
+
+  *note - the feedback from the EA doesn't talk in any detail about the display and browsing of folder structures, though this would be a necessary part of implementing the upload capability; likely to be a complicated Story*
