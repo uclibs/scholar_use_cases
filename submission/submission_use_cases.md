@@ -405,7 +405,7 @@ account details
 
 `Done looks like:` The file upload interface is more visible
 
-##Submission 45 - File hierarchy \# Early Adopter Round 2
+##Submission 46 - File hierarchy \# Early Adopter Round 2
 `As a:` Repository user
 
 `I want:` To batch upload and preserve parent-child folder structure without submitting a zip file
