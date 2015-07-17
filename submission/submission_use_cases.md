@@ -387,7 +387,7 @@ account details
  
  <em>Appears to be an OS issue - Windows supports this, OSX doesn't? (2015-03-18)</em>
 
-##Submission 43 - Private with some exceptions 
+##Submission 43 - Private with some exceptions # Early Adopter Round 2
 `As a:` repository user
 
 `I want:` to make my submission private but delegate permission to view my work to certain individuals 
@@ -396,7 +396,7 @@ account details
 
 `Done looks like:` The submission interface includes a mechanism for selecting who can view my work by my entering an email address.
 
-##Submission 45 - File-upload more visible \# Early Adopter Round 2
+##Submission 44 - File-upload more visible \# Early Adopter Round 2
 `As a:` Repository user
 
 `I want:` To clearly identify the file-upload dialog 
@@ -405,7 +405,7 @@ account details
 
 `Done looks like:` The file upload interface is more visible
 
-##Submission 46 - File hierarchy \# Early Adopter Round 2
+##Submission 45 - File hierarchy \# Early Adopter Round 2
 `As a:` Repository user
 
 `I want:` To batch upload and preserve parent-child folder structure without submitting a zip file
@@ -415,3 +415,24 @@ account details
 `Done looks like:` an interface to upload folders structures 
 
   *note - the feedback from the EA doesn't talk in any detail about the display and browsing of folder structures, though this would be a necessary part of implementing the upload capability; likely to be a complicated Story*
+  
+## Submission 46 - Proxy Submission # Early Adopter Round 2
+`As a:` delegate 
+
+`I want:` the 'My works' page to clearly distinguish between my own authored works, and works I submit on behalf of others	
+
+`So that:`  'My works' page shows the works I authored
+
+`Done looks like:` 'My works' defaults to only showing my authored works. Another page or part of the dashboard shows work I submitted on behalf of others as their delegate.   
+
+
+## Submission 47 - Proxy Submission 
+`As a:` submitter
+
+`I want:` to control what fields others can edit who have access to my work
+
+`So that:`  Not all people who have access to my work can edit all of the fields
+
+`Done looks like:` I have access to a dashboard that allows me to control what types of permissions my collaborators/delegates have
+
+  *note - related to Submission #1

@@ -114,3 +114,12 @@
 `So that:` I don’t have to download a large image file to be able to zoom or pan
 
 `Done look like:` Scholar@UC includes an IIIF-compliant image server in its stack, making use of the image and presentation APIs to deliver content to users
+
+##Submission 14 - Temporary access # Early Adopter Round 2
+`As a:` repository submitter
+
+`I want:` to temporarily enable password-based access to a data set
+
+`So that:` another user can download it only when I approve the download
+
+`Done looks like:` I am able to create a custom password for an otherwise protected protected file attached to an item record. I would then be able to remove temporary access once I am notified the password has been used to download the file.

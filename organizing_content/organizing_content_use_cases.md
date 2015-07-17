@@ -65,3 +65,12 @@
 
 `Done looks like:` when group members login, they can only edit or read materials based on the levels I have specified
 
+
+## Submission  8 - Groups
+`As a:` member of a group
+
+`I want:` to see what works I have granted group access to/or others' works I am able to edit
+
+`So that:`  I do not have to open an individual item's record to see which groups I have given access to or items which I am able to edit
+
+`Done looks like:` When I view my group, I see which works my group has access to 
