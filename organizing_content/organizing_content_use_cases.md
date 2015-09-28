@@ -74,3 +74,5 @@
 `So that:`  I do not have to open an individual item's record to see which groups I have given access to or items which I am able to edit
 
 `Done looks like:` When I view my group, I see which works my group has access to 
+
+*This submission is ideal for a dashboard*
