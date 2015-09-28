@@ -123,3 +123,5 @@
 `So that:` another user can download it only when I approve the download
 
 `Done looks like:` I am able to create a custom password for an otherwise protected protected file attached to an item record. I would then be able to remove temporary access once I am notified the password has been used to download the file.
+
+*out of scope (9-28-2015)*
