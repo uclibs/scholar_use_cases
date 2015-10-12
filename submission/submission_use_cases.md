@@ -212,11 +212,11 @@ account details
 ##Submission 24 - File format \# Early Adopter
 `As a:` repository submitter 
 
-`I want:` a list of maximum file sizes by format
+`I want:` a list of maximum file sizes
 
 `So that:` I know if my file will upload successfully
 
-`Done looks like:` a button or link next to the work type that takes me to a list of maximum file sizes
+`Done looks like:` a button or link on the work ingest / file attach page that provides information about the maximum file sizes
 
 
 ##Submission 25 - Input Form \# Early Adopter
