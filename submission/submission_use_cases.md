@@ -435,4 +435,4 @@ account details
 
 `Done looks like:` I have access to a dashboard that allows me to control what types of permissions my collaborators/delegates have
 
-  *note - related to Submission #1
+  *note - related to Submission #1*
