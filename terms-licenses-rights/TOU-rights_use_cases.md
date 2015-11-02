@@ -8,7 +8,9 @@
 
 `Done looks like:` in any of the legal documentation, I see reference to the university intellectual property policy (http://www.uc.edu/content/dam/uc/trustees/docs/rules_10/10-19-01.pdf and http://www.uc.edu/content/dam/uc/trustees/docs/rules_10/10-19-02.pdf)
 
-## Submission 2 - Copyright guidance \# Early Adopter
+## Submission 2 - Copyright guidance \# Early Adopter \#Addressed
+
+*Addressed with [265](https://github.com/uclibs/scholar_uc/issues/265)*
 
 `As a:`  repository user
 
@@ -48,7 +50,9 @@
 
 `Done looks like:` when I see the terms of use, I can click on a heading that specifically speaks to what I care about (see examples at http://www.google.com/policies/privacy/ and https://www.dropbox.com/privacy#terms)
 
-## Submission 6 - Alerts for language changes \# Early Adopter
+## Submission 6 - Alerts for language changes \# Early Adopter \# Addressed
+
+*Partially addressed with [295](https://github.com/uclibs/scholar_uc/issues/295) - We're displaying the last changed date now*
 
 `As a:`  repository user
 

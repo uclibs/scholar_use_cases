@@ -43,7 +43,10 @@
 
 `Done looks like:` the user interface includes a list of the contents for a field, and a mechanism for selecting that field/content combination, so that, after selecting it, the results of a search only include results where that selection applies
 
-## Submission 6 - Comprehensive keyword search against metadata
+## Submission 6 - Comprehensive keyword search against metadata \# Early Adopter \# Addressed
+
+*Addressed with [155](https://github.com/uclibs/scholar_uc/issues/155)*
+
 `As a:` repository user
 
 `I want:` to use keyword searching to search every field in all the records
@@ -70,7 +73,10 @@
 
 `Done looks like:` I can paste URIs into any field on the metadata input form and the links will display in the user view of the bib record. The help section has lists of where I can find URIs.
 
-##Submission 9 - Search and Display \# Early Adopter
+##Submission 9 - Search and Display \# Early Adopter \# Addressed
+
+*Addressed with [282](https://github.com/uclibs/scholar_uc/issues/282) - added other facets*
+
 `As a:` repository submitter
 
 `I want:` to filter my search results by subject, discipline, etc.
@@ -79,7 +85,10 @@
 
 `Done looks like:` Subject faceting on side of screen (Metadata WG will need to discuss controlled vocabulary, tags, etc) 
 
-##Submission 10 - Link Sharing \# Early Adopter
+##Submission 10 - Link Sharing \# Early Adopter \# Addressed
+
+*Addressed with [287](https://github.com/uclibs/scholar_uc/issues/295) - We're displaying the link in the footer - and with [286](https://github.com/uclibs/scholar_uc/issues/286) - simplified the path to remove 'concerns'*
+
 `As a:` repository user
 
 `I want to:` know what the best link is for sharing with other people
