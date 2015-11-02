@@ -57,13 +57,7 @@
 
 ## Submission 7 - Read-only access for group members
 
-`As a:` group manager 
-
-`I want:` to be able to set permissions for group members
-
-`So that:` I can choose between read-only and editing access for group members
-
-`Done looks like:` when group members login, they can only edit or read materials based on the levels I have specified
+*Deleted and merged with [submission/43](https://github.com/uclibs/scholar_use_cases/blob/master/submission/submission_use_cases.md#submission-43---private-with-some-exceptions--early-adopter-round-2)*
 
 
 ## Submission  8 - Groups

@@ -388,13 +388,16 @@ account details
  <em>Appears to be an OS issue - Windows supports this, OSX doesn't? (2015-03-18)</em>
 
 ##Submission 43 - Private with some exceptions # Early Adopter Round 2
+
+*Now Includes the organizing_content/7 use case*
+
 `As a:` repository user
 
 `I want:` to make my submission private but delegate permission to view my work to certain individuals 
 
 `So that:` I can share my work with a small audience until the item is ready for greater access
 
-`Done looks like:` The submission interface includes a mechanism for selecting who can view my work by my entering an email address.
+`Done looks like:` The submission/edit interface includes functionality for assigning view access to groups and individuals
 
 ##Submission 44 - File-upload more visible \# Early Adopter Round 2
 `As a:` Repository user
