@@ -239,7 +239,10 @@ account details
 
 `Done looks like:` a button on the input form that allows me to import metadata from my previous submissions
 
-##Submission 27 - Input Form \# Early Adopter
+##Submission 27 - Input Form \# Early Adopter \# Addressed
+
+*Addressed with [273](https://github.com/uclibs/scholar_uc/issues/273)*
+
 `As a:` repository submitter
 
 `I want:` to batch upload multiples files and associated metadata, including connections through cloud storage (Google Drive, Dropbox, Box)
@@ -310,7 +313,9 @@ account details
 
 <em>Done with Work input form work (2015-03-18)</em>
 
-##Submission 35 - Input Forms checks/warnings \# Early Adopter
+##Submission 35 - Input Forms checks/warnings \# Early Adopter \# Addressed
+
+*Unable to re-create problem - issue closed*
 
 `As a:` repository submitter
 
@@ -329,7 +334,10 @@ account details
 
 `Done looks like:` visual status indicator showing that the system is still “thinking,” e.g., animated icon
 
-##Submission 37 - Input Forms checks/warnings  \# Early Adopter
+##Submission 37 - Input Forms checks/warnings  \# Early Adopter \# Addressed
+
+*Addressed with [263](https://github.com/uclibs/scholar_uc/issues/263)*
+
 `As a:` repository submitter
 
 `I want:` the SHERPA ROMEO link to open in a new window
@@ -338,7 +346,10 @@ account details
 
 `Done looks like:` the SHERPA ROMEO link opens in a new window or I should be warned not to use the back button
 
-##Submission 38 - Logging In  \# Early Adopter
+##Submission 38 - Logging In  \# Early Adopter \# Addressed
+
+*No longer needed with Shibboleth implementation* 
+
 `As a:` Repository user
 
 `I want to:` know that when I update/change my password that it should be 8 characters long before I click ‘Update Account’
@@ -347,7 +358,10 @@ account details
 
 `Done looks like:` A hint appears that indicates I need 8 characters for a password
 
-##Submission 39 - Logging In  \# Early Adopter
+##Submission 39 - Logging In  \# Early Adopter \# Addressed
+
+*Addressed with [280](https://github.com/uclibs/scholar_uc/issues/280)*
+
 `As a:` Repository user
 
 `I want to:` stay on profile page after updating password 
