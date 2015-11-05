@@ -430,7 +430,7 @@ account details
 
   *note - the feedback from the EA doesn't talk in any detail about the display and browsing of folder structures, though this would be a necessary part of implementing the upload capability; likely to be a complicated Story*
   
-## Submission 46 - Proxy Submission # Early Adopter Round 2
+## Submission 46 - Proxy Submission \# Early Adopter Round 2
 `As a:` delegate 
 
 `I want:` the 'My works' page to clearly distinguish between my own authored works, and works I submit on behalf of others	
@@ -450,3 +450,13 @@ account details
 `Done looks like:` I have access to a dashboard that allows me to control what types of permissions my collaborators/delegates have
 
   *note - related to Submission #1*
+  
+## Submission 48 - Add title and description to an external link \# Early Adopter Round 2
+`As a:` repository submitter
+
+`I want to:` have the option of providing a title and/or a description when I add or edit an external link.
+
+`So that:` Users will know what the link is and how it relates to the work they're viewing.
+
+`Done looks like:` When the link is displayed on the 'show page' for a work, the title and description will also be displayed
+  

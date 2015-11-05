@@ -16,7 +16,7 @@
 
 `Done looks like:` I can easily "brand" collections through use of headers, banners, footers, color schemes, etc
 
-## Submission 3 - RSS feed updates for users and re-use
+## Submission 3 - RSS feed updates for users and re-use \# Early Adopter
 `As a:`public user of the repository
 
 `I want to:` have an RSS feed to monitor new content deposited by author, category, format, keyword, college
@@ -25,7 +25,7 @@
 
 `Done looks like:` My RSS feed is updated whenever content matching my filters is deposited
 
-## Submission 4 - RSS feed updates for users and re-use
+## Submission 4 - RSS feed updates for users and re-use \# Early Adopter
 `As a:`depositor to the repository
 
 `I want to:` have an RSS feed to re-use (for example, so I can place a feed on my personal website directing users to all instances of my work in the repository)
