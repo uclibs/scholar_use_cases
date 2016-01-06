@@ -16,23 +16,23 @@
 
 `Done looks like:` I can easily "brand" collections through use of headers, banners, footers, color schemes, etc
 
-## Submission 3 - RSS feed updates for users and re-use \# Early Adopter
+## Submission 3 - RSS feed or email alert updates for users and re-use \# Early Adopter
 `As a:`public user of the repository
 
-`I want to:` have an RSS feed to monitor new content deposited by author, category, format, keyword, college
+`I want to:` have an RSS feed and/or email alerts to monitor new content deposited by author, category, format, keyword, college
 
 `So that:` I know when new content has been deposited
 
-`Done looks like:` My RSS feed is updated whenever content matching my filters is deposited
+`Done looks like:` My RSS feed is updated, or I receive an email, whenever content matching my filters is deposited
 
-## Submission 4 - RSS feed updates for users and re-use \# Early Adopter
+## Submission 4 - RSS feed or email alert updates for users and re-use \# Early Adopter
 `As a:`depositor to the repository
 
-`I want to:` have an RSS feed to re-use (for example, so I can place a feed on my personal website directing users to all instances of my work in the repository)
+`I want to:` have an RSS feed or email alerts widget to re-use (for example, so I can place a feed on my personal website directing users to all instances of my work in the repository)
 
-`So that:` I can use a URL for an RSS feed that will work elsewhere
+`So that:` I can use a URL for an RSS feed or email alert signup that will work elsewhere
 
-`Done looks like:` An automated RSS feed that updates dynamically with new content
+`Done looks like:` An automated RSS feed and/or email alerts that updates/triggers dynamically with new content
 
 ##Submission 5 - Citation export
 `As a:`repository user
