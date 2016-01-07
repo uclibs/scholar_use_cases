@@ -460,3 +460,11 @@ account details
 
 `Done looks like:` When the link is displayed on the 'show page' for a work, the title and description will also be displayed
   
+## Submission 49 - Delegate actions \# Early Adopter
+`As a:` repository submitter
+
+`I want to:` see what my delegates are doing on my behalf
+
+`So that:` I can easily hold delegates accountable for their work on my behalf
+
+`Done looks like:` a page with a log of delegate actions conducted on my behalf
