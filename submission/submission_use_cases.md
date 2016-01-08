@@ -404,11 +404,11 @@ account details
 ##Submission 43 - Private with some exceptions # Early Adopter Round 2
 `As a:` repository user
 
-`I want:` to make my submission private but delegate permission to view my work to certain individuals 
+`I want:` to make my submission private but delegate permission to view my work to any specific individual 
 
 `So that:` I can share my work with a small audience until the item is ready for greater access
 
-`Done looks like:` The submission interface includes a mechanism for selecting who can view my work by my entering an email address.
+`Done looks like:` The submission interface includes a mechanism for granting access to anyone, via their email address.
 
 ##Submission 44 - File-upload more visible \# Early Adopter Round 2
 `As a:` Repository user
