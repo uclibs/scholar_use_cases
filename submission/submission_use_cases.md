@@ -468,3 +468,30 @@ account details
 `So that:` I can easily hold delegates accountable for their work on my behalf
 
 `Done looks like:` a page with a log of delegate actions conducted on my behalf
+
+## Submission 50 - DOI for collections\# Early Adopter
+`As a:` repository submitter
+
+`I want to:` assign a DOI to a collection
+
+`So that:` I can provide users a persistent link to a collection
+
+`Done looks like:` A section on the Add or Edit Collection pages to assign a DOI, similar to the section in the works/x/new view. 
+
+## Submission 51 - Collection image size \# Early Adopter
+`As a:` repository submitter
+
+`I want to:` display a larger and/or banner-sized image on my Collection page
+
+`So that:` the image will be more prominent
+
+`Done looks like:` an option in the Add/Edit Collection pages to include a large image that will display on the Collection page
+
+## Submission 52 - WYSIWYG editor and description formatting\# Early Adopter
+`As a:` repository submitter
+
+`I want to:` use a WYSIWYG editor to add formatting to the description of a work or collection
+
+`So that:` bold/italics/underlining, links, and bullet points can be added and edited
+
+`Done looks like:` a WYSIWYG editor in the Add/Edit Work or Collection pages that allows formatting of text and links for the description field
