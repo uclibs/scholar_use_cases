@@ -76,3 +76,13 @@
 `Done looks like:` When I view my group, I see which works my group has access to 
 
 *This submission is ideal for a dashboard*
+
+
+##Submission 9 - Display of content in collections # Early Adopter
+`As a:` collection manager
+
+`I want to:` have my content in a collection displayed in a collapsible folder-like structure of sub-collections
+
+`So that:` users can open and close menus to see the files they want
+
+`Done looks like:` when a user is viewing my collection page they see a series of folder links they can click to open or close, and see the files associated with each sub-collection
