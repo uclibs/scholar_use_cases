@@ -404,11 +404,11 @@ account details
 ##Submission 43 - Private with some exceptions # Early Adopter Round 2
 `As a:` repository user
 
-`I want:` to make my submission private but delegate permission to view my work to certain individuals 
+`I want:` to make my submission private but delegate permission to view my work to any specific individual 
 
 `So that:` I can share my work with a small audience until the item is ready for greater access
 
-`Done looks like:` The submission interface includes a mechanism for selecting who can view my work by my entering an email address.
+`Done looks like:` The submission interface includes a mechanism for granting access to anyone, via their email address.
 
 ##Submission 44 - File-upload more visible \# Early Adopter Round 2
 `As a:` Repository user
@@ -460,3 +460,38 @@ account details
 
 `Done looks like:` When the link is displayed on the 'show page' for a work, the title and description will also be displayed
   
+## Submission 49 - Delegate actions \# Early Adopter
+`As a:` repository submitter
+
+`I want to:` see what my delegates are doing on my behalf
+
+`So that:` I can easily hold delegates accountable for their work on my behalf
+
+`Done looks like:` a page with a log of delegate actions conducted on my behalf
+
+## Submission 50 - DOI for collections\# Early Adopter
+`As a:` repository submitter
+
+`I want to:` assign a DOI to a collection
+
+`So that:` I can provide users a persistent link to a collection
+
+`Done looks like:` A section on the Add or Edit Collection pages to assign a DOI, similar to the section in the works/x/new view. 
+
+## Submission 51 - Collection image size \# Early Adopter
+`As a:` repository submitter
+
+`I want to:` display a larger and/or banner-sized image on my Collection page
+
+`So that:` the image will be more prominent
+
+`Done looks like:` an option in the Add/Edit Collection pages to include a large image that will display on the Collection page
+
+## Submission 52 - WYSIWYG editor and description formatting\# Early Adopter
+`As a:` repository submitter
+
+`I want to:` use a WYSIWYG editor to add formatting to the description of a work or collection
+
+`So that:` bold/italics/underlining, links, and bullet points can be added and edited
+
+`Done looks like:` a WYSIWYG editor in the Add/Edit Work or Collection pages that allows formatting of text and links for the description field
