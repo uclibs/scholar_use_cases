@@ -86,3 +86,21 @@
 `So that:` users can open and close menus to see the files they want
 
 `Done looks like:` when a user is viewing my collection page they see a series of folder links they can click to open or close, and see the files associated with each sub-collection
+
+##Submission 10 - Multiple contributors to a collection # Early Adopter
+`As a:` collection manager
+
+`I want to:` designate others who can add to or edit my collection 
+
+`So that:` Ownership and management of a collection can be shared 
+
+`Done looks like:` When I edit my collection I can add an editor to my collection 
+
+##Submission 11 - Arrangement of content within a collection # Early Adopter
+`As a:` collection manager
+
+`I want to:` Arrange my content within a collection according to any order I want 
+
+`So that:` On the collection display the content is arranged according to my specifications, whether by name, date, or an arbitrary order I choose. 
+
+`Done looks like:` I have the ability to re-order content according to my needs and not based on a system default.
