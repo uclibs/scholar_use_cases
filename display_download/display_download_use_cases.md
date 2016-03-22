@@ -125,3 +125,22 @@
 `Done looks like:` I am able to create a custom password for an otherwise protected protected file attached to an item record. I would then be able to remove temporary access once I am notified the password has been used to download the file.
 
 *out of scope (9-28-2015)*
+
+##Submission 15 - Bulk download on collection page # Early Adopter Round 2
+`As a:` collection manager
+
+`I want to:` offer users the ability to select one, or select all, of the files I have on a collection page 
+
+`So that:` Users have the ability to bulk download files without clicking to each individual work page
+
+`Done looks like:` Users on a collection page can select which files they want to download and download them from the collection page
+
+
+##Submission 16 - Display of content details on collection page # Early Adopter Round 2
+`As a:` collection manager
+
+`I want to:` choose the fields that are associated with my collection items
+
+`So that:` I can choose whether I want to display items like the work thumbnail, date modified, or other fields
+
+`Done looks like:` I have some type of dashboard to control the way that item lists are displayed on my collection page

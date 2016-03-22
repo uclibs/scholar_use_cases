@@ -44,3 +44,12 @@
 `So that:` my work reaches more audiences
 
 `Done looks like:` the repository I use is capable of indexing content consistent with Google Scholar recommendations, so that shortly after submission it is findable in Google Scholar
+
+##Submission 6 - Display of content details on collection page # Early Adopter Round 2
+`As a:` repository submitter
+
+`I want to:` give my delegates authority to edit my profile page 
+
+`So that:` delegates can update my profile 
+
+`Done looks like:` When my delegate views my profile, s/he has the ability to edit it
