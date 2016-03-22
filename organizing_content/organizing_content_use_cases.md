@@ -78,7 +78,7 @@
 *This submission is ideal for a dashboard*
 
 
-##Submission 9 - Display of content in collections # Early Adopter
+##Submission 9 - Display of content in collections \# Early Adopter
 `As a:` collection manager
 
 `I want to:` have my content in a collection displayed in a collapsible folder-like structure of sub-collections
@@ -87,7 +87,7 @@
 
 `Done looks like:` when a user is viewing my collection page they see a series of folder links they can click to open or close, and see the files associated with each sub-collection
 
-##Submission 10 - Multiple contributors to a collection # Early Adopter
+##Submission 10 - Multiple contributors to a collection \# Early Adopter
 `As a:` collection manager
 
 `I want to:` designate others who can add to or edit my collection 
@@ -96,7 +96,7 @@
 
 `Done looks like:` When I edit my collection I can add an editor to my collection 
 
-##Submission 11 - Arrangement of content within a collection # Early Adopter
+##Submission 11 - Arrangement of content within a collection \# Early Adopter
 `As a:` collection manager
 
 `I want to:` Arrange my content within a collection according to any order I want 
@@ -104,3 +104,12 @@
 `So that:` On the collection display the content is arranged according to my specifications, whether by name, date, or an arbitrary order I choose. 
 
 `Done looks like:` I have the ability to re-order content according to my needs and not based on a system default.
+
+##Submission 12 - Bulk adding collection content \# Early Adopter
+`As a:` collection editor
+
+`I want to:` add content to collections in a batch
+
+`So that:` I can add content to collections without having to add them one at a time
+
+`Done looks like:` An interface where I can select many works and apply the same readership rights change to all of them (Note: this interface is going to depend strongly on whether we stop letting people works that they don't have own/edit rights to collections)
