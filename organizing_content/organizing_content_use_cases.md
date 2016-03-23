@@ -96,7 +96,7 @@
 
 `Done looks like:` When I edit my collection I can add an editor to my collection 
 
-##Submission 11 - Arrangement of content within a collection \# Early Adopter
+##Submission 11 - Arrangement of content within a collection \# Early Adopter 
 `As a:` collection manager
 
 `I want to:` Arrange my content within a collection according to any order I want 
@@ -105,7 +105,7 @@
 
 `Done looks like:` I have the ability to re-order content according to my needs and not based on a system default.
 
-##Submission 12 - Bulk adding collection content \# Early Adopter
+##Submission 12 - Bulk adding collection content \# Early Adopter 
 `As a:` collection editor
 
 `I want to:` add content to collections in a batch
@@ -114,7 +114,7 @@
 
 `Done looks like:` An interface where I can select many works and apply the same readership rights change to all of them (Note: this interface is going to depend strongly on whether we stop letting people works that they don't have own/edit rights to collections)
 
-##Submission 13 - Display of parent-child relationship on collection page  \# Early Adopter
+##Submission 13 - Display of parent-child relationship on collection page  \# Early Adopter 
 `As a:` collection editor
 
 `I want to:` have the collection page indicate if a sub-collection is part of a parent collection
@@ -122,4 +122,14 @@
 `So that:`  it is clear when a sub-collection is part of a larger collection
 
 `Done looks like:` on a sub-collection page, it indicates when it is part of a larger parent collection (Example: this collection https://scholar.uc.edu/collections/sufia:wm117p185 is a child of this parent collection https://scholar.uc.edu/collections/sufia:j9602120t, but there is no indication of this relationship on the child collection page)
+
+##Submission 14 - Adding an item to a profile \# Early Adopter 
+`As a:` repository submitter
+
+`I want to:` to clearly distinguish between my collections and my profile when adding an item to a collection
+
+`So that:` when I choose to submit an item to a collection, I clearly understand that my name is for adding an item to my profile
+
+`Done Looks like:` a heading stating “Profile” displays in bold and italics above my name, in addition to “Your Collections”
+
 
