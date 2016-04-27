@@ -145,6 +145,8 @@
 
 `Done looks like:` I have some type of dashboard to control the way that item lists are displayed on my collection page
 
+<i>Use case needs to be broken down into components for issue development</i>
+
 
 ##Submission 17 - View from the catalog (when browsing collections) \# Early Adopter 
 `As a:` repository user
