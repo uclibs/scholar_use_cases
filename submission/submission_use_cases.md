@@ -495,3 +495,12 @@ account details
 `So that:` bold/italics/underlining, links, and bullet points can be added and edited
 
 `Done looks like:` a WYSIWYG editor in the Add/Edit Work or Collection pages that allows formatting of text and links for the description field
+
+## Submission 53 - Additional metadata entry\# Early Adopter
+`As a:` repository submitter
+
+`I want to:` the section for additional metadata to be clearer
+
+`So that:` I can see this section and add more metadata without accidently skipping it
+
+`Done looks like:` a clearer interface for expanding the "Show Additional Description" section, reusing some of the UI elements from elsewhere in the design (e.g., the "Add+" button)
