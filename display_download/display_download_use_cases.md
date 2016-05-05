@@ -125,3 +125,13 @@
 `Done looks like:` I am able to create a custom password for an otherwise protected protected file attached to an item record. I would then be able to remove temporary access once I am notified the password has been used to download the file.
 
 *out of scope (9-28-2015)*
+
+## Submission 15 - Embedded PDF viewer
+`As a:`repository user
+
+`I want to:` view PDF files in the browser with an embedded PDF viewer
+
+`So that:` I can view the content of a PDF file before opening it.
+
+`Done looks like:` I can easily "brand" collections through use of headers, banners, footers, color schemes, etc
+
