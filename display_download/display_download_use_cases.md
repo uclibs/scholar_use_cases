@@ -115,7 +115,7 @@
 
 `Done look like:` Scholar@UC includes an IIIF-compliant image server in its stack, making use of the image and presentation APIs to deliver content to users
 
-##Submission 14 - Temporary access # Early Adopter Round 2 
+##Submission 14 - Temporary access # Early Adopter Round 2
 `As a:` repository submitter
 
 `I want:` to temporarily enable password-based access to a data set
