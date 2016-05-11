@@ -16,7 +16,7 @@
 
 `Done looks like:` I can easily "brand" collections through use of headers, banners, footers, color schemes, etc
 
-## Submission 3 - RSS feed or email alert updates for users and re-use \\# Early Adopter
+## Submission 3 - RSS feed or email alert updates for users and re-use \# Early Adopter
 `As a:`public user of the repository
 
 `I want to:` have an RSS feed and/or email alerts to monitor new content deposited by author, category, format, keyword, college
@@ -25,7 +25,7 @@
 
 `Done looks like:` My RSS feed is updated, or I receive an email, whenever content matching my filters is deposited
 
-## Submission 4 - RSS feed or email alert updates for users and re-use \\# Early Adopter
+## Submission 4 - RSS feed or email alert updates for users and re-use \# Early Adopter
 `As a:`depositor to the repository
 
 `I want to:` have an RSS feed or email alerts widget to re-use (for example, so I can place a feed on my personal website directing users to all instances of my work in the repository)
@@ -106,7 +106,7 @@
 
 `Done looks like:` this information is automatically generated from the file(s) I upload and displayed along with information such as Date Uploaded and Visibility
 
-##Submission 13 - Zoom and pan images \\# Early Adopter
+##Submission 13 - Zoom and pan images \# Early Adopter
 `As a:` repository user
 
 `I want to:` be able to deep zoom and pan on large, high-resolution images
@@ -115,7 +115,7 @@
 
 `Done look like:` Scholar@UC includes an IIIF-compliant image server in its stack, making use of the image and presentation APIs to deliver content to users
 
-##Submission 14 - Temporary access \# Early Adopter 
+##Submission 14 - Temporary access # Early Adopter Round 2 
 `As a:` repository submitter
 
 `I want:` to temporarily enable password-based access to a data set
