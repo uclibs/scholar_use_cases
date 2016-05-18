@@ -155,7 +155,7 @@
 
 `So that:` instead of the email address of the owner, viewers can see the owner’s name
 
-`Done Look like:` the owner’s name displays lastname, firstname in addition to their email address
+`Done Look like:` the owner’s name displays lastname, firstname instead of their email address
 
 
 ##Submission 18 - View from the catalog (when browsing collections) \# Early Adopter 
