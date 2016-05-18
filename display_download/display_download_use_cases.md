@@ -167,3 +167,11 @@
 
 `Done Look like:` additional characters are displayed in the description field
 
+## Submission 19 - Embedded PDF Viewer
+`As a:` repository user
+
+`I want to:` view PDF files in an embedded viewer
+
+`So that:` I can view the contents of PDF files before downloading them
+
+`Done looks like:` the content of PDF files is displayed on a work page in a PDF viewer. 
